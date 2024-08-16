@@ -105,8 +105,7 @@ const ListItem = styled(List.Item)`
   align-items: center;
   justify-content: space-between;
   padding: 10px;
-  background-color: #ece4e4;
-  border: 2px solid #ff7f00;
+  background-color: #ffffff;
   border-radius: 12px;
   margin-bottom: 15px;
   font-size: 18px;
